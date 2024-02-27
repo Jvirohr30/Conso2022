@@ -1,1 +1,2 @@
-textview1.setText(hi world);
+findViewById(R.id.textView1);
+setText("My Text");
